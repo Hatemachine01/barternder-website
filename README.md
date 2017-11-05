@@ -1,4 +1,8 @@
-MeatKing
+CockTail King
 ========
 
-Restaurant Theme based on Twitter Bootstrap 3
+
+Template based on Twitter Bootstrap
+
+
+
