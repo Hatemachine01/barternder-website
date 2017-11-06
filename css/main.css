@@ -30,6 +30,8 @@ body {
 img {
     max-height:100%;
     max-width:100%;
+    background-color:white;
+    border-radius: 40%;
 }
 section {
     position:relative;
@@ -440,7 +442,6 @@ section::before,section::after {
         width:110px;
         left:50%;
         margin-left:-55px;
-        background:black;
         -webkit-border-radius:0 0 100% 100%;
         -moz-border-radius:0 0 100% 100%;
         border-radius:0 0 100% 100%;
