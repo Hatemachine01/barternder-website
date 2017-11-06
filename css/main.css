@@ -165,12 +165,23 @@ section::before,section::after {
     transition:all 0.4s;
     color:white;
     font-weight:bold;
+    font-size: 1.5em;
+
 }
 .navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>.active>a {
     background:#ed0121;
     color:white;
     text-shadow:none;
 }
+
+
+.devider {
+    
+    margin-left : 220px;
+}
+
+
+
 
 
 /* ==========================================================================
@@ -371,6 +382,37 @@ section::before,section::after {
     margin: 10px 0 30px 0;
 }
 
+
+
+
+*=======================================================
+TYPOGRAPHY
+*=======================================================
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1;
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: -2px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.2em;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: #777;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
 
 
 
