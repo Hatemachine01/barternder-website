@@ -3,9 +3,10 @@
 
 Template based on Twitter Bootstrap.
 
-Theme Name: MeatKing
-Version:    1.14.20
-Author:     ThemeWagon
+
+<p>Theme Name: MeatKing</p>
+<p>Version:    1.14.20 </p>
+<p>Author:     ThemeWagon </p>
 
 
 
