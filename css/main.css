@@ -33,6 +33,12 @@ img {
     background-color:white;
     border-radius: 40%;
 }
+
+.img-responsive{
+  max-width: 100%;
+  height: auto;
+}
+
 section {
     position:relative;
     padding:0;
@@ -87,6 +93,7 @@ section::before,section::after {
     background-attachment:fixed;
     background-repeat:no-repeat;
     position:relative;
+
 }
 .bg-overlay {
     position:absolute;
