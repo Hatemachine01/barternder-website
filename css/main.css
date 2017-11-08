@@ -461,7 +461,7 @@ p {
         margin-left: 0;
     }
 
-    .pricing .pricing-item a img {
+    .pricing .pricing-item  {
         float: none;
         margin-bottom: 30px;
     }
@@ -492,7 +492,7 @@ p {
 }
 
 
-@media (max-width:767px) {
+@media (min-width:767px) {
 .img-responsive {
 max-width:100% !important;
 height: auto !important;
