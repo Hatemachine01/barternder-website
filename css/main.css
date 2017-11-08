@@ -237,7 +237,7 @@ section::before,section::after {
     05. parallax 
 ========================================================================== */
 .parallax {
-    background:url(../img/menu/thumb-cocktails.jpg) fixed no-repeat center center;
+    background:url(../img/menu/thumb-cocktails.jpg)  no-repeat center center;
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -245,16 +245,7 @@ section::before,section::after {
     background-position:center center;
     background-repeat:no-repeat;
     position:relative;
-    color:#FFF;
-}
-
-
-
-  
-
-
-
-
+    }
 
 .parallax .inner {
     padding-top:130px;
