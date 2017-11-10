@@ -372,6 +372,17 @@ section::before,section::after {
 /* ==========================================================================
     08. Reservation 
 ========================================================================== */
+
+.profile-pic {
+    
+    width: 200px;
+    border: 2px solid;
+    border-color: #ed0121;
+    margin-top: 25px;
+    border-radius: 25px;
+
+}
+
 .form-group {
     margin-bottom:24px;
 }
