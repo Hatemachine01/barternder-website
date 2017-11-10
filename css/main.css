@@ -315,6 +315,7 @@ section::before,section::after {
 }
 .pricing .pricing-item img {
     max-width:250px;
+    margin: 0 auto;
     float:left;
 }
 .pricing-item-details a,.pricing-item-details p,.pricing .lead {
@@ -330,6 +331,8 @@ section::before,section::after {
     font-size:22px;
 }
 .pricing .pricing-item .pricing-item-details p {
+
+    margin: 0 auto;
 }
 .pricing .pricing-item .pricing-item-details a.btn {
     margin-top:10px;
@@ -358,6 +361,9 @@ section::before,section::after {
 
     background-color:  #000000;
     opacity: .8;
+    border: 2px solid;
+    border-radius: 10px;
+
 
 }
 
