@@ -379,6 +379,7 @@ section::before,section::after {
     border: 2px solid;
     border-color: #ed0121;
     margin-top: 25px;
+    margin-bottom:25px;
     border-radius: 25px;
 
 }
